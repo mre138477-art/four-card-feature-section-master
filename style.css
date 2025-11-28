@@ -7,15 +7,15 @@
 
 @font-face {
     font-family: Black1;
-    src: url("/myproject/font/Poppins-Black.ttf");
+    src: url("Poppins-Black.ttf");
     font-family: BlackItalic;
-    src: url("/myproject/font/Poppins-BlackItalic.ttf");
+    src: url("Poppins-BlackItalic.ttf");
     font-family: PoppinsBold;
-    src: url("/myproject/font/Poppins-Bold.ttf");
+    src: url("Poppins-Bold.ttf");
     font-family: BoldItalic;
-    src: url("/myproject/font/Poppins-BoldItalic.ttf");
+    src: url("Poppins-BoldItalic.ttf");
     font-family: Poppins-Medium;
-    src: url("/myproject/font/Poppins-Medium.ttf");
+    src: url("Poppins-Medium.ttf");
 }
 
 :root {
@@ -174,4 +174,5 @@ font-size: 20px;
 font-size: 10px;
 width: 20rem;
     }
+
 }
